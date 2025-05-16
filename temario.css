@@ -11,7 +11,7 @@ body {
 
 /* ==== Header ==== */
 header {
-  background-color: #7400a1;
+  background-color: #a600e7;
 }
 
 header h1 {
@@ -26,7 +26,7 @@ article {
 /* ==== Títulos y subtítulos ==== */
 article h2,
 article h3 {
-  color: #7400a1;
+  color: #a600e7;
   font-weight: bold;
 }
 
@@ -45,7 +45,7 @@ article p {
 
 /* ==== Footer ==== */
 footer {
-  background-color: #a600e7;
+  background-color: #212529;
   text-align: center;
   padding: 15px 0;
   margin-top: auto;
